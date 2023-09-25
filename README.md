@@ -13,7 +13,7 @@ You are also free to explore the data further and extract additional insights ot
 
 When a consumer places an order on DoorDash, we show the expected time of delivery. It is very important for DoorDash to get this right, as it has a big impact on consumer experience. In this exercise, you will build a model to predict the estimated time taken for a delivery.
 
-Build a model to predict the total delivery duration seconds (as defined above). Feel free to generate additional features from the given data to improve model performance. Explain:
+Build a model to predict the total delivery duration seconds. Feel free to generate additional features from the given data to improve model performance. Explain:
 - Model(s) used,
 - How you evaluated your model performance on the historical data,
 - Any data processing you performed on the data,
